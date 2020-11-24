@@ -1,1 +1,1 @@
-// Allow user to search by personal name or email
+// Allow user to search by user name or email
